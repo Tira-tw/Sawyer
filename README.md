@@ -20,4 +20,5 @@
 [yabl.xyz](https://yabl.xyz/bot/985175849747767307) <br>
 [radarcord.net](https://radarcord.net/bot/985175849747767307) <br>
 [yourbotlist.com](https://yourbotlist.com/bot/985175849747767307) <br>
-[discord.bots.gg](https://discord.bots.gg/bots/985175849747767307)
+[discord.bots.gg](https://discord.bots.gg/bots/985175849747767307) <br>
+[bhbotlist.tech](https://bhbotlist.tech/bot/985175849747767307)
