@@ -19,3 +19,4 @@
 [wonderbotlist.com](https://wonderbotlist.com/en/bot/985175849747767307) <br>
 [yabl.xyz](https://yabl.xyz/bot/985175849747767307) <br>
 [radarcord.net](https://radarcord.net/bot/985175849747767307) <br>
+[yourbotlist.com](https://yourbotlist.com/bot/985175849747767307)
