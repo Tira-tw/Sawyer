@@ -15,4 +15,5 @@
 ## Bot List
 <br>
 
-[vcodes.xyz](https://vcodes.xyz/bot/985175849747767307)
+[vcodes.xyz](https://vcodes.xyz/bot/985175849747767307) <br>
+[wonderbotlist.com](https://wonderbotlist.com/en/bot/985175849747767307)
