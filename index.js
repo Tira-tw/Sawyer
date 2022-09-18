@@ -26,7 +26,7 @@ const rest = new REST({ version: "9" }).setToken(token);
 		console.log('Started refreshing application (/) commands.'.yellow);
 		await rest.put(
 			// if you want to make your slash commands in all guilds use "applicationCommands("CLIENT_ID")"
-			Routes.applicationGuildCommands(config.botID, config.serverID),
+			Routes.applicationGuildCommands(config.botID),
 			{ body: commands },
 		);
 		console.log('Successfully reloaded application (/) commands.'.green);
